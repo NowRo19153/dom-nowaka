@@ -1,0 +1,10 @@
+{
+  "name": "Dom Nowaka PRO",
+  "short_name": "Dom Nowaka",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": []
+}
