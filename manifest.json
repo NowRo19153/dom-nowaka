@@ -6,5 +6,12 @@
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#020617",
-  "icons": []
+  "icons": [
+  {
+    "src": "dom_nowaka_icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
 }
+
